@@ -1,0 +1,12 @@
+# sanitze
+/**/.*
+/**/.*/
+!/.gitignore
+
+# swapfiles
+*~
+
+# terraform
+terraform\.tfstate*
+terraform\.log*
+*\.tfplan
